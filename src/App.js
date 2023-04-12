@@ -1,16 +1,14 @@
 import React from 'react';
-import Navbar from './components/Navbar.js';
 import './App.css';
-
+import Navbarr from './components/Navbar.js';
+import Hero from "./components/Hero.js";
 function App() {
  var x = navigator.online;
   return (
     <>
-    <Navbar/>
-  {/* add to jsx */}
-  {x ? (<div>Online</div>): (<div>
-    Offline
-  </div>)}
+    <Navbarr/>
+    <Hero season="2" ver="1.1.2"/>
+    {/*<Content/>*/}
   </>
   )
 }

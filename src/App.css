@@ -39,3 +39,7 @@
 banner-offline{
   background-color: red;color: white;
 }
+.bg{
+  background-image: url('bg.jpg');
+  
+}
