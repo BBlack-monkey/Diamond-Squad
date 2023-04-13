@@ -3,7 +3,6 @@ import './App.css';
 import Navbarr from './components/Navbar.js';
 import Hero from "./components/Hero.js";
 function App() {
- var x = navigator.online;
   return (
     <>
     <Navbarr/>

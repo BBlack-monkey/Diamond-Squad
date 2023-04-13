@@ -25,7 +25,7 @@ export default function Navbarr() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+        <a href="/" className="flex items-center">
           About
         </a>
       </Typography>
@@ -35,7 +35,7 @@ export default function Navbarr() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+        <a href="/" className="flex items-center">
           Report
         </a>
       </Typography>
@@ -45,7 +45,7 @@ export default function Navbarr() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+        <a href="/" className="flex items-center">
           Feedback 
         </a>
       </Typography>
@@ -55,7 +55,7 @@ export default function Navbarr() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+        <a href="/" className="flex items-center">
           Docs
         </a>
       </Typography>
@@ -68,7 +68,7 @@ export default function Navbarr() {
         <div className="flex items-center justify-between text-blue-gray-900">
           <Typography
             as="a"
-            href="#"
+            href="/"
             className="mr-4 cursor-pointer py-1.5 font-medium"
           >
             Diamond Squad
