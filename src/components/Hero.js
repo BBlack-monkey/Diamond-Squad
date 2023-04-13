@@ -11,13 +11,11 @@ function Hero(props) {
             <h2 className="mt-8 mb-6 text-4xl lg:text-5xl font-bold text-gray-100">Diamond Squad <br /> Season 2</h2>
             <p className="max-w-3xl mx-auto mb-10 text-lg text-gray-300">
                Join your very own Minecraft server. <br /><br />
-               IP: DiamondSquadX.aternos.org <br />
-               Port: 19313
+               IP: DIAMONDsquadX.aternos.me  <br />
+               Port: 64059
             </p>
-          <a href="http://aternos.com"><Btn/></a>
-            {/*// <a className="inline-block w-full md:w-auto mb-4 md:mr-6 py-5 px-8 text-sm font-bold uppercase border-2 border-transparent bg-gray-200 rounded hover:bg-gray-100 text-gray-800 transition duration-200"
-            //   href="http://aternos.com">Join Now</a> */}
-            
+          <a href="https://add.aternos.org/DIAMONDsquadX"><Btn/></a>
+       
           </div>
         </div>
       </div>
