@@ -7,7 +7,7 @@ function App() {
     <>
     <Navbarr/>
     <Hero season="2" ver="1.1.2"/>
-    {/*<Content/>*/}
+    <Content/>
   </>
   )
 }
