@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "diamond-squad",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "@material-tailwind/react": "^1.4.2",
@@ -51,5 +51,24 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.1"
-  }
+  },
+  "description": "Official website of Diamond Squad SMP Server.",
+  "main": "tailwind.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBlack-monkey/Diamond-Squad.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "Server",
+    "SMP",
+    "Diamond",
+    "Squad"
+  ],
+  "author": "MD Iftekhar Ferdous, Diamond Squad Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BBlack-monkey/Diamond-Squad/issues"
+  },
+  "homepage": "https://github.com/BBlack-monkey/Diamond-Squad#readme"
 }

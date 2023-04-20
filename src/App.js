@@ -7,7 +7,14 @@ function App() {
     <>
     <Navbarr/>
     <Hero season="2" ver="1.1.2"/>
-
+    <div class="container bg-amber-600 p-2 pl-4 text-lg ">
+      <div class="flex justify-center">
+        <span>Request</span>
+      </div>
+      <div class="">
+        Hihihihihihuih
+      </div>
+    </div>
   </>
   )
 }
